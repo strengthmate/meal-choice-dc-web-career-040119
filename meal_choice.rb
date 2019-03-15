@@ -5,3 +5,5 @@ require "spec_helper"
 
 def meal_choice (chosen = "meat")
 end
+
+  puts chosen
