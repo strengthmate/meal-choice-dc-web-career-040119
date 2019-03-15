@@ -6,4 +6,4 @@ def meal_choice(chosen = "meat")
 end
 
 meal_choice
-end
+end-of-input
